@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Entrypoint/Entrypoint.csproj" Id="866be1ec-e2aa-46b4-a602-b8dc29d7baaf" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
